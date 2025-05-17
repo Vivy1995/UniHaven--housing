@@ -22,12 +22,12 @@ UniHaven’s MVP includes five key features (mocked statically):
 
 #### the Wireframe Details
 - * These pages contain Figma wireframes for:
-  - Page 6: Registration flow (student signup).
-  - Page 7: Search interface (filters for location, amenities).
-  - Page 8: Listing details (property info).
-  - Page 9: Communication interface (chat, WhatsApp).
-  - Page 10: Additional UI elements (not directly hosted).
-- * The “Wireframes” section links each wireframe to its corresponding HTML page (index.html, search.html, listing.html) and includes a placeholder for your Figma link. If you don’t have the Figma link, you can upload screenshots of these pages to your repository and link them (e.g., ![Registration Wireframe](wireframes/registration.png)).
+  -  Registration flow (student signup).
+  - Search interface (filters for location, amenities).
+  - Listing details (property info).
+  - Communication interface (chat, WhatsApp).
+  - Additional UI elements (not directly hosted).
+- * The “Wireframes” section links each wireframe to its corresponding HTML page (index.html, search.html, listing.html) and includes a placeholder for your Figma link. If you don’t have the Figma link, you can upload screenshots of these pages to your repository and link them (e.g., ![Registration Wireframe].
 
 
   
