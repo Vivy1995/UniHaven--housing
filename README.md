@@ -18,7 +18,7 @@ UniHaven’s MVP includes five key features (mocked statically):
   - July 2025: Host a launch event at UNILAG, targeting 100 successful rentals.
   - August 2025: Expand to YabaTech, iterate based on feedback.
   - Future: Add dynamic features (e.g., SMS OTP, database).
-- *README Inclusion:* The “Roadmap” section summarizes these milestones, showing your project’s trajectory and ambition, which aligns with your 3MTT script, mentioning the August 2025 goal.
+- * The “Roadmap” section summarizes these milestones, showing your project’s trajectory and ambition, which aligns with your 3MTT script, mentioning the August 2025 goal.
 
 #### the Wireframe Details
 - * These pages contain Figma wireframes for:
