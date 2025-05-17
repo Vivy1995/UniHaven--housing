@@ -1,8 +1,7 @@
 
 
 ## Overview
-UniHaven is a student-centric platform connecting Nigerian students with verified landlords for off-campus housing. Built as part of the 3MTT Knowledge Showcase (May Edition), it addresses housing scams by prioritizing trust and safety through robust verification. https://1drv.ms/p/c/83ff09ef129f2266/ERzIxqqir8pDm7PGqvXUCbMB5z4SssnwkYGb9ytzRlWcqQ?e=ndl7s2
-
+UniHaven is a student-centric platform connecting Nigerian students with verified landlords for off-campus housing. Built as part of the 3MTT Knowledge Showcase (May Edition), it addresses housing scams by prioritizing trust and safety through robust verification. https://drive.google.com/file/d/1nMoK70gcPYvG4jNucSVYZRXp80OULLZ7/view?usp=drivesdk
 ## Features
 UniHaven’s MVP includes five key features (mocked statically):
 - *User Registration:* Students sign up with phone and university (mocked SMS OTP).
