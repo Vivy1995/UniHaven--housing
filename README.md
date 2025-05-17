@@ -27,7 +27,7 @@ UniHaven’s MVP includes five key features (mocked statically):
   - Listing details (property info).
   - Communication interface (chat, WhatsApp).
   - Additional UI elements (not directly hosted).
-- * The “Wireframes” section links each wireframe to its corresponding HTML page (index.html, search.html, listing.html) and includes a placeholder for your Figma link. If you don’t have the Figma link, you can upload screenshots of these pages to your repository and link them (e.g., ![Registration Wireframe].
+- * The “Wireframes” section links each wireframe to its corresponding HTML page (index.html, search.html, listing.html).
 
 
   
